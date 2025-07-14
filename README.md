@@ -1,6 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building a high-performance, distributed computing platform using Golang and C++ for real-time data analytics and blockchain integration. The project aims to create a scalable solution for decentralized applications, leveraging C++ for system-level components and Golang for backend services.<br><br>👯 I’m looking to collaborate on: Advanced software engineering projects involving Golang, C++, and blockchain technologies. My focus is on building decentralized solutions, optimizing distributed systems, and working with large-scale data processing.<br><br>🤝 I’m looking for help with: Optimizing real-time data processing systems using Golang and C++, and integrating blockchain technologies into distributed computing platforms.<br><br>🌱 I’m currently learning: Enhancing my skills in Solana, blockchain technology, Golang, and C++, focusing on creating robust distributed systems. I'm also exploring advanced techniques in microservices architecture, high-performance computing, and blockchain protocol development.<br><br>💬 Ask me about: Golang backend development, system-level programming with C++, and building blockchain-based solutions. I specialize in real-time data processing and distributed systems.<br><br>⚡ Fun fact: I’m passionate about combining Golang and C++ to build high-performance backend systems, while integrating blockchain technologies for decentralized applications!
 
+🔭 **I’m currently working on:** Building a high-performance, distributed computing platform using Golang, Rust and C++ for real-time data analytics and blockchain integration. This project is designed to support scalable, decentralized applications, leveraging C++ for ultra-efficient system-level components and Golang, Rust for robust backend services. I’m focusing on integrating secure blockchain protocols to ensure data integrity and trustless execution.
+
+👯 **I’m looking to collaborate on:** Advanced software engineering projects that push the boundaries of decentralization. I'm particularly interested in initiatives involving Golang, C++, and blockchain — such as building Layer 1 and Layer 2 blockchain protocols, decentralized storage networks, cross-chain interoperability solutions, and high-throughput decentralized finance (DeFi) systems.
+
+🤝 **I’m looking for help with:** Optimizing real-time data processing pipelines using Golang, Rust and C++, and integrating advanced blockchain architectures like zk-SNARKs, proof-of-stake (PoS), and proof-of-history (PoH) into distributed systems. I’m also interested in collaborating on tokenomics design and smart contract development.
+
+🌱 **I’m currently learning:** Deepening my expertise in Solana, Move, and other modern blockchain ecosystems. I'm exploring advanced topics like zero-knowledge proofs, consensus algorithm design, and cryptographic primitives. In addition, I’m honing my skills in microservices architecture, distributed ledger technologies (DLTs), and cross-chain communication protocols to build the next generation of scalable, secure decentralized applications.
+
+💬 **Ask me about:** Golang, Rust backend development, system-level optimization with C++, building secure and performant blockchain networks, designing smart contracts, and architecting high-throughput DeFi protocols. I specialize in real-time analytics, distributed computing, and decentralized infrastructure.
+
+⚡ **Fun fact:** I’m passionate about merging Golang, Rust and C++ to create high-performance backend systems while pushing the frontiers of blockchain to enable fully decentralized, trustless applications. I love working on blockchain infrastructure that empowers open, censorship-resistant, and globally accessible systems!
+
+---
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NaharNakshatra) 
