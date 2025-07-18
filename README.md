@@ -1,16 +1,20 @@
 # 💫 About Me:
 
-🔭 **I’m currently working on:** Building a high-performance, distributed computing platform using Golang, Rust and C++ for real-time data analytics and blockchain integration. This project is designed to support scalable, decentralized applications, leveraging C++ for ultra-efficient system-level components and Golang, Rust for robust backend services. I’m focusing on integrating secure blockchain protocols to ensure data integrity and trustless execution.
+🔭 **I'm currently working on:** Building high-performance, distributed computing platforms for real-time data analytics and modern application architectures. My focus is on creating scalable systems that leverage cutting-edge optimizations and robust backend infrastructures to deliver exceptional performance and reliability.
 
-👯 **I’m looking to collaborate on:** Advanced software engineering projects that push the boundaries of decentralization. I'm particularly interested in initiatives involving Golang, C++, and blockchain — such as building Layer 1 and Layer 2 blockchain protocols, decentralized storage networks, cross-chain interoperability solutions, and high-throughput decentralized finance (DeFi) systems.
+👯 **I'm looking to collaborate on:** Advanced software engineering projects that span both traditional and emerging technologies. I'm particularly interested in initiatives involving distributed systems, high-throughput applications, cloud-native architectures, data processing pipelines, and innovative financial technology solutions.
 
-🤝 **I’m looking for help with:** Optimizing real-time data processing pipelines using Golang, Rust and C++, and integrating advanced blockchain architectures like zk-SNARKs, proof-of-stake (PoS), and proof-of-history (PoH) into distributed systems. I’m also interested in collaborating on tokenomics design and smart contract development.
+🤝 **I'm looking for help with:** Optimizing real-time data processing pipelines, integrating advanced system architectures, and building resilient distributed systems. I'm also interested in collaborating on scalable application design, performance optimization, and cutting-edge development practices.
 
-🌱 **I’m currently learning:** Deepening my expertise in Solana, Move, and other modern blockchain ecosystems. I'm exploring advanced topics like zero-knowledge proofs, consensus algorithm design, and cryptographic primitives. In addition, I’m honing my skills in microservices architecture, distributed ledger technologies (DLTs), and cross-chain communication protocols to build the next generation of scalable, secure decentralized applications.
+🌱 **I'm currently learning:** Deepening my expertise across modern software ecosystems and exploring advanced topics in system design, distributed computing, and emerging technologies. I'm expanding my knowledge in microservices architecture, cloud platforms, and next-generation application frameworks.
 
-💬 **Ask me about:** Golang, Rust backend development, system-level optimization with C++, building secure and performant blockchain networks, designing smart contracts, and architecting high-throughput DeFi protocols. I specialize in real-time analytics, distributed computing, and decentralized infrastructure.
+💬 **Ask me about:** Backend system architecture, distributed computing, scalable infrastructure, real-time analytics, performance optimization, and building robust, high-throughput systems. I specialize in creating solutions that handle complex operations while maintaining security, scalability, and reliability.
 
-⚡ **Fun fact:** I’m passionate about merging Golang, Rust and C++ to create high-performance backend systems while pushing the frontiers of blockchain to enable fully decentralized, trustless applications. I love working on blockchain infrastructure that empowers open, censorship-resistant, and globally accessible systems!
+⚡ **Fun fact:** I'm passionate about merging low-level system optimization with high-level architectural design to create performant systems that power modern applications. I love working on infrastructure that enables scalable, efficient, and globally accessible solutions across diverse technology stacks!
+
+---
+
+*Building the infrastructure for tomorrow's decentralized world* 🚀
 
 ---
 
